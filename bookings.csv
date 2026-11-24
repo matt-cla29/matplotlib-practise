@@ -1,0 +1,6 @@
+BookingID,CustomerName,BookingDate,Attendees,HoursBooked,Venue,HourlyRate,VenueCost,DiscountPercent,DiscountAmount,FinalCost
+B001,Clark Mason,15/11/2026,75,4,Medium Hall,150,600,10,60,540
+B002,Sarah Jones,16/11/2026,120,6,Large Hall,250,1500,15,225,1275
+B003,James Smith,17/11/2026,35,2,Small Hall,100,200,0,0,200
+B004,Emma Brown,18/11/2026,90,5,Medium Hall,150,750,10,75,675
+B005,Daniel White,19/11/2026,150,8,Large Hall,250,2000,15,300,1700
